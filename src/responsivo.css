@@ -1,0 +1,48 @@
+@media(max-width:675px){
+
+
+.menu{
+    flex-direction: column;
+    
+}
+
+.logo h1{
+    font-size: 40px;
+}
+
+
+.navbar{
+    padding-top: 50px;
+    font-size: 40px;
+    flex-direction: column;
+
+}
+
+
+.navbar li{
+    padding: 33px 0;
+}
+
+.navbar li:last-child{
+    margin-top: 20px;
+}
+
+
+.navbar li a{
+    padding: 17px 40px;
+}
+
+
+
+.navbar li a.bnt{
+     background-color: #5BC241;
+    border-radius: 10px;
+    padding: 15px 23px;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+}
