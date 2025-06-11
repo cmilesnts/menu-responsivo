@@ -59,7 +59,7 @@ $npm run start
 
 Camile santos 
 
-<img style= "width:100px" src="image/Captura de tela 2025-06-11 183130.png" alt="foto da pessoa autora">
+<img style="width:100px" src="image/Captura de tela 2025-06-11 183130.png" alt="">
 
 
 
