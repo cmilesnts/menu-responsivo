@@ -59,7 +59,7 @@ $npm run start
 
 Camile santos 
 
-<img style="width:100px" src="images/Imagem do WhatsApp de 2025-04-29 à(s) 09.29.54_b8946c94.jpg" alt="">
+<img style= "width:100px" src="image/Captura de tela 2025-06-11 183130.png" alt="foto da pessoa autora">
 
 
 
